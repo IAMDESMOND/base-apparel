@@ -66,6 +66,7 @@ body {
     /* line-height: 2; */
     outline: 0;
     margin-left: 30px;
+    background-color: inherit;
 }
 
 .email ::-webkit-input-placeholder{
